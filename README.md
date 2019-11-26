@@ -2,7 +2,8 @@
 
 The Gradle Bintray Plugin allows you to publish artifacts to Bintray.
 
-[ ![Download](https://api.bintray.com/packages/jfrog/jfrog-jars/gradle-bintray-plugin/images/download.svg) ](https://bintray.com/jfrog/jfrog-jars/gradle-bintray-plugin/_latestVersion)
+[ ![Download](https://api.bintray.com/packages/jfrog/jfrog-jars/gradle-bintray-plugin/images/download.svg) [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fneo355%2Fgradle-bintray-plugin.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fneo355%2Fgradle-bintray-plugin?ref=badge_shield)
+](https://bintray.com/jfrog/jfrog-jars/gradle-bintray-plugin/_latestVersion)
 
 # Table of Contents  
 [Getting Started Using the Plugin](#Getting_Started_Using_the_Plugin)<br>
@@ -99,6 +100,9 @@ bintray {
     }
 }
 ```
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fneo355%2Fgradle-bintray-plugin.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fneo355%2Fgradle-bintray-plugin?ref=badge_large)
 
 #### Step 5: If you're uploading a Debian package, configure its details
 If your Gradle build deploys a Debian package to a Debian repository, you need to specify the Distribution, Component and Architecture for the package.
